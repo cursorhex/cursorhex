@@ -1,0 +1,1281 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="277" viewBox="0 0 830 277" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" role="img">
+<title>README with realistic animated rain – light</title>
+<defs>
+<clipPath id="canvas"><rect width="830" height="277"/></clipPath>
+<linearGradient id="rainGrad" x1="0" y1="0" x2="0.17" y2="1"><stop offset="0%" stop-color="#477b9f" stop-opacity="0"/><stop offset="38%" stop-color="#477b9f" stop-opacity=".85"/><stop offset="78%" stop-color="#82add1" stop-opacity=".95"/><stop offset="100%" stop-color="#82add1" stop-opacity="0"/></linearGradient>
+<filter id="nearBlur" x="-40%" y="-30%" width="180%" height="160%"><feGaussianBlur stdDeviation=".43"/></filter>
+</defs>
+<rect width="830" height="277" fill="#ffffff"/>
+<g id="readme-text">
+<text x="0" y="32" font-size="32" fill="#1f2328" font-weight="600">Hi, I'm Cursorhex 👋</text>
+<text x="0" y="124" font-size="16" fill="#1f2328">I’m not sure what to say, most of the repos on this profile are private. Please don’t hate me for that.</text>
+<text x="0" y="164" font-size="16" fill="#1f2328">Developer, I enjoy designing new things, concepts, branding, and so on.</text>
+<text x="0" y="204" font-size="16" fill="#1f2328">Glad you made it this far (as if it were a long bio...)</text>
+<path d="M0 50H830" stroke="#d1d9e0" stroke-width="1"/>
+</g>
+<g clip-path="url(#canvas)">
+<g transform="translate(45.46 -51.71)" opacity="0.157">
+<path d="M0 0l-3.40 15.45" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.9 420" dur="0.937s" begin="-0.916s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(884.64 -65.34)" opacity="0.181">
+<path d="M0 0l-3.58 16.27" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.0 420" dur="0.920s" begin="-0.917s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(551.88 -85.18)" opacity="0.211">
+<path d="M0 0l-3.03 13.75" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.7 420" dur="1.281s" begin="-1.272s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-36.29 -30.14)" opacity="0.187">
+<path d="M0 0l-2.03 9.21" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="0.752s" begin="-0.403s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(109.67 -46.63)" opacity="0.171">
+<path d="M0 0l-2.82 12.84" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.3 420" dur="1.040s" begin="-0.380s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(35.34 -47.47)" opacity="0.136">
+<path d="M0 0l-3.42 15.53" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.4 420" dur="0.834s" begin="-0.431s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(839.84 -63.53)" opacity="0.188">
+<path d="M0 0l-3.40 15.45" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.8 420" dur="0.934s" begin="-0.196s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(374.98 -21.37)" opacity="0.204">
+<path d="M0 0l-2.38 10.84" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.3 420" dur="0.938s" begin="-0.693s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(506.40 -84.38)" opacity="0.184">
+<path d="M0 0l-2.90 13.17" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.6 420" dur="0.978s" begin="-0.003s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(284.91 -47.16)" opacity="0.178">
+<path d="M0 0l-2.41 10.96" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.1 420" dur="1.214s" begin="-0.766s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(821.55 -80.81)" opacity="0.156">
+<path d="M0 0l-2.60 11.80" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.0 420" dur="1.238s" begin="-0.918s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(180.86 -59.75)" opacity="0.201">
+<path d="M0 0l-2.20 10.00" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.9 420" dur="1.112s" begin="-0.339s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(731.40 -39.97)" opacity="0.223">
+<path d="M0 0l-3.28 14.91" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.2 420" dur="1.072s" begin="-0.508s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(763.72 -38.94)" opacity="0.136">
+<path d="M0 0l-3.51 15.95" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.8 420" dur="1.352s" begin="-0.028s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(186.00 -69.84)" opacity="0.223">
+<path d="M0 0l-3.15 14.30" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.0 420" dur="0.922s" begin="-0.636s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(213.48 -80.23)" opacity="0.139">
+<path d="M0 0l-2.31 10.49" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.8 420" dur="0.957s" begin="-0.330s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(303.85 -94.68)" opacity="0.146">
+<path d="M0 0l-2.10 9.56" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.7 420" dur="1.134s" begin="-0.828s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(929.34 -24.88)" opacity="0.158">
+<path d="M0 0l-2.82 12.82" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.4 420" dur="0.695s" begin="-0.567s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(605.02 -35.15)" opacity="0.229">
+<path d="M0 0l-3.36 15.29" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.1 420" dur="1.093s" begin="-0.152s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(30.29 -76.28)" opacity="0.189">
+<path d="M0 0l-3.57 16.22" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.9 420" dur="0.846s" begin="-0.389s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(282.51 -64.33)" opacity="0.247">
+<path d="M0 0l-3.33 15.13" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.0 420" dur="1.163s" begin="-0.877s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(369.51 -23.60)" opacity="0.226">
+<path d="M0 0l-3.68 16.72" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.2 420" dur="1.582s" begin="-0.126s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(212.66 -50.12)" opacity="0.185">
+<path d="M0 0l-2.50 11.35" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.2 420" dur="1.559s" begin="-0.900s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(610.83 -89.28)" opacity="0.141">
+<path d="M0 0l-3.83 17.40" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.3 420" dur="0.924s" begin="-0.255s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(616.82 -79.27)" opacity="0.154">
+<path d="M0 0l-3.64 16.56" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.4 420" dur="0.706s" begin="-0.377s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(552.70 -91.10)" opacity="0.164">
+<path d="M0 0l-2.02 9.18" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.3 420" dur="1.178s" begin="-0.353s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(58.16 -88.05)" opacity="0.135">
+<path d="M0 0l-3.46 15.71" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.4 420" dur="1.020s" begin="-0.096s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(313.85 -81.78)" opacity="0.134">
+<path d="M0 0l-3.09 14.06" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="1.532s" begin="-0.384s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-13.00 -56.00)" opacity="0.258">
+<path d="M0 0l-2.69 12.22" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.7 420" dur="0.932s" begin="-0.753s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(59.01 -92.35)" opacity="0.141">
+<path d="M0 0l-3.33 15.13" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.3 420" dur="1.251s" begin="-0.322s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(582.19 -31.47)" opacity="0.157">
+<path d="M0 0l-2.51 11.40" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.7 420" dur="0.710s" begin="-0.654s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(754.96 -95.90)" opacity="0.189">
+<path d="M0 0l-1.78 8.10" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.3 420" dur="0.802s" begin="-0.280s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(506.29 -75.89)" opacity="0.221">
+<path d="M0 0l-2.84 12.93" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.6 420" dur="0.897s" begin="-0.398s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(427.33 -28.02)" opacity="0.198">
+<path d="M0 0l-3.03 13.76" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.3 420" dur="1.332s" begin="-0.700s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(855.50 -29.84)" opacity="0.188">
+<path d="M0 0l-3.63 16.50" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.5 420" dur="1.506s" begin="-0.586s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(803.07 -39.93)" opacity="0.257">
+<path d="M0 0l-2.91 13.25" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.1 420" dur="0.952s" begin="-0.838s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(671.89 -27.52)" opacity="0.178">
+<path d="M0 0l-3.40 15.44" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.0 420" dur="1.148s" begin="-0.183s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(84.00 -42.78)" opacity="0.130">
+<path d="M0 0l-3.64 16.53" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.1 420" dur="0.809s" begin="-0.702s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(238.93 -84.15)" opacity="0.157">
+<path d="M0 0l-3.31 15.05" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.8 420" dur="0.666s" begin="-0.282s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(883.66 -79.71)" opacity="0.164">
+<path d="M0 0l-2.68 12.19" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.8 420" dur="1.205s" begin="-0.335s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(525.84 -46.70)" opacity="0.257">
+<path d="M0 0l-3.82 17.34" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.6 420" dur="0.700s" begin="-0.355s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(759.30 -80.83)" opacity="0.188">
+<path d="M0 0l-3.41 15.50" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.3 420" dur="0.795s" begin="-0.322s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(601.14 -34.92)" opacity="0.250">
+<path d="M0 0l-2.80 12.74" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.8 420" dur="0.719s" begin="-0.145s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(227.32 -50.49)" opacity="0.178">
+<path d="M0 0l-3.10 14.08" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.3 420" dur="1.555s" begin="-1.337s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(533.26 -88.01)" opacity="0.238">
+<path d="M0 0l-2.08 9.46" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.1 420" dur="1.224s" begin="-0.071s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(413.47 -46.60)" opacity="0.226">
+<path d="M0 0l-2.08 9.47" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.5 420" dur="1.068s" begin="-0.220s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(580.67 -79.86)" opacity="0.235">
+<path d="M0 0l-3.62 16.48" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.5 420" dur="1.481s" begin="-1.100s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(868.60 -39.38)" opacity="0.142">
+<path d="M0 0l-2.83 12.85" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.7 420" dur="1.012s" begin="-0.096s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(343.02 -31.62)" opacity="0.151">
+<path d="M0 0l-3.55 16.15" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="1.130s" begin="-0.695s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(257.12 -20.16)" opacity="0.174">
+<path d="M0 0l-2.70 12.27" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.9 420" dur="0.919s" begin="-0.037s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(387.49 -77.48)" opacity="0.138">
+<path d="M0 0l-3.75 17.06" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.2 420" dur="1.059s" begin="-0.193s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(11.90 -42.92)" opacity="0.220">
+<path d="M0 0l-3.45 15.70" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.1 420" dur="0.916s" begin="-0.051s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(297.63 -84.29)" opacity="0.154">
+<path d="M0 0l-2.88 13.09" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.3 420" dur="1.441s" begin="-1.228s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(327.79 -86.70)" opacity="0.161">
+<path d="M0 0l-2.40 10.89" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.3 420" dur="1.229s" begin="-1.113s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(240.33 -24.68)" opacity="0.227">
+<path d="M0 0l-2.10 9.54" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.9 420" dur="0.761s" begin="-0.386s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(722.99 -48.85)" opacity="0.243">
+<path d="M0 0l-2.49 11.33" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.5 420" dur="0.690s" begin="-0.328s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(146.22 -41.74)" opacity="0.182">
+<path d="M0 0l-3.70 16.81" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.5 420" dur="1.519s" begin="-1.501s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(103.21 -82.61)" opacity="0.236">
+<path d="M0 0l-3.33 15.15" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.6 420" dur="0.932s" begin="-0.002s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(430.71 -33.91)" opacity="0.253">
+<path d="M0 0l-1.98 9.02" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.9 420" dur="0.930s" begin="-0.617s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(459.88 -79.94)" opacity="0.199">
+<path d="M0 0l-3.78 17.17" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.1 420" dur="1.250s" begin="-0.296s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(878.22 -47.81)" opacity="0.250">
+<path d="M0 0l-3.42 15.56" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.8 420" dur="0.891s" begin="-0.423s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(180.37 -50.98)" opacity="0.156">
+<path d="M0 0l-3.02 13.71" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="1.062s" begin="-0.266s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(558.32 -80.90)" opacity="0.138">
+<path d="M0 0l-1.90 8.63" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.2 420" dur="1.263s" begin="-0.812s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(894.19 -79.21)" opacity="0.140">
+<path d="M0 0l-2.94 13.34" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.9 420" dur="1.511s" begin="-0.291s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(277.00 -80.30)" opacity="0.205">
+<path d="M0 0l-2.11 9.60" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.6 420" dur="1.048s" begin="-0.198s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(755.79 -61.93)" opacity="0.227">
+<path d="M0 0l-2.11 9.58" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.0 420" dur="0.871s" begin="-0.446s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(914.85 -68.39)" opacity="0.223">
+<path d="M0 0l-2.65 12.07" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.7 420" dur="0.783s" begin="-0.126s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(607.86 -50.45)" opacity="0.220">
+<path d="M0 0l-3.54 16.10" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.0 420" dur="1.329s" begin="-1.056s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(690.52 -81.69)" opacity="0.218">
+<path d="M0 0l-3.87 17.60" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.4 420" dur="1.256s" begin="-0.676s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(822.96 -50.62)" opacity="0.256">
+<path d="M0 0l-3.05 13.88" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.0 420" dur="1.473s" begin="-1.219s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(152.35 -72.54)" opacity="0.219">
+<path d="M0 0l-3.15 14.34" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.5 420" dur="1.462s" begin="-0.691s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(885.13 -46.13)" opacity="0.239">
+<path d="M0 0l-2.08 9.46" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.4 420" dur="1.479s" begin="-0.453s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(181.59 -59.98)" opacity="0.197">
+<path d="M0 0l-1.87 8.48" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.2 420" dur="1.409s" begin="-1.274s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(768.06 -31.74)" opacity="0.169">
+<path d="M0 0l-1.92 8.71" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.2 420" dur="0.658s" begin="-0.471s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(260.12 -54.11)" opacity="0.166">
+<path d="M0 0l-3.41 15.48" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.8 420" dur="0.718s" begin="-0.000s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(424.57 -50.39)" opacity="0.235">
+<path d="M0 0l-2.57 11.69" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.2 420" dur="0.943s" begin="-0.440s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(753.00 -26.47)" opacity="0.197">
+<path d="M0 0l-2.13 9.70" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.8 420" dur="0.660s" begin="-0.244s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(767.30 -61.53)" opacity="0.247">
+<path d="M0 0l-3.17 14.40" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.4 420" dur="1.264s" begin="-1.233s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(404.42 -66.34)" opacity="0.238">
+<path d="M0 0l-3.24 14.73" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.9 420" dur="0.996s" begin="-0.972s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(546.20 -25.66)" opacity="0.156">
+<path d="M0 0l-1.84 8.36" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.4 420" dur="1.105s" begin="-0.569s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(16.07 -77.76)" opacity="0.248">
+<path d="M0 0l-3.95 17.94" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.0 420" dur="1.156s" begin="-0.777s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(673.19 -55.02)" opacity="0.241">
+<path d="M0 0l-3.10 14.09" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.7 420" dur="0.730s" begin="-0.405s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(705.36 -48.95)" opacity="0.230">
+<path d="M0 0l-2.57 11.70" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="1.117s" begin="-0.953s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(36.69 -80.15)" opacity="0.131">
+<path d="M0 0l-2.88 13.07" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.4 420" dur="0.892s" begin="-0.509s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(190.92 -27.76)" opacity="0.158">
+<path d="M0 0l-3.60 16.38" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.6 420" dur="1.206s" begin="-1.020s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(232.23 -40.16)" opacity="0.260">
+<path d="M0 0l-3.47 15.78" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.6 420" dur="0.840s" begin="-0.110s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-16.02 -90.74)" opacity="0.183">
+<path d="M0 0l-3.74 17.01" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.4 420" dur="0.656s" begin="-0.228s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(547.30 -73.05)" opacity="0.156">
+<path d="M0 0l-3.59 16.30" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.4 420" dur="1.049s" begin="-0.531s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(820.33 -52.02)" opacity="0.197">
+<path d="M0 0l-1.94 8.82" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.6 420" dur="0.931s" begin="-0.431s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(117.38 -34.52)" opacity="0.170">
+<path d="M0 0l-1.91 8.69" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.9 420" dur="0.873s" begin="-0.865s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(789.68 -47.74)" opacity="0.180">
+<path d="M0 0l-3.93 17.84" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.0 420" dur="1.132s" begin="-0.321s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(275.95 -42.22)" opacity="0.147">
+<path d="M0 0l-3.39 15.40" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.0 420" dur="0.903s" begin="-0.472s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(93.64 -46.04)" opacity="0.157">
+<path d="M0 0l-2.17 9.87" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.0 420" dur="1.532s" begin="-0.347s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(885.13 -94.59)" opacity="0.243">
+<path d="M0 0l-3.63 16.52" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.2 420" dur="1.260s" begin="-1.182s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(432.53 -60.94)" opacity="0.151">
+<path d="M0 0l-2.91 13.22" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.6 420" dur="1.110s" begin="-1.023s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(129.46 -46.99)" opacity="0.243">
+<path d="M0 0l-1.87 8.49" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.4 420" dur="1.572s" begin="-0.383s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(81.38 -56.42)" opacity="0.157">
+<path d="M0 0l-3.19 14.50" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.0 420" dur="1.044s" begin="-0.059s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(466.94 -60.35)" opacity="0.182">
+<path d="M0 0l-2.94 13.37" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.5 420" dur="1.376s" begin="-0.296s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-12.56 -26.21)" opacity="0.195">
+<path d="M0 0l-3.20 14.57" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="1.057s" begin="-0.639s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(642.56 -72.76)" opacity="0.157">
+<path d="M0 0l-2.44 11.09" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.7 420" dur="0.925s" begin="-0.035s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(132.23 -72.01)" opacity="0.165">
+<path d="M0 0l-2.99 13.60" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.4 420" dur="0.716s" begin="-0.512s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(186.91 -69.89)" opacity="0.157">
+<path d="M0 0l-2.69 12.24" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.1 420" dur="1.161s" begin="-0.051s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(325.52 -49.64)" opacity="0.161">
+<path d="M0 0l-3.84 17.47" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="0.750s" begin="-0.517s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(727.35 -55.15)" opacity="0.220">
+<path d="M0 0l-1.92 8.74" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.8 420" dur="0.869s" begin="-0.280s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(157.85 -37.24)" opacity="0.241">
+<path d="M0 0l-3.35 15.25" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.6 420" dur="1.482s" begin="-0.452s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(768.72 -38.06)" opacity="0.209">
+<path d="M0 0l-3.72 16.90" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.8 420" dur="1.578s" begin="-0.058s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(601.96 -87.61)" opacity="0.193">
+<path d="M0 0l-3.07 13.97" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.8 420" dur="1.452s" begin="-0.369s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(572.15 -22.12)" opacity="0.248">
+<path d="M0 0l-3.40 15.46" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.4 420" dur="1.387s" begin="-1.057s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(760.80 -81.13)" opacity="0.214">
+<path d="M0 0l-2.53 11.48" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.9 420" dur="1.082s" begin="-0.726s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(581.90 -35.22)" opacity="0.237">
+<path d="M0 0l-2.16 9.82" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.8 420" dur="0.997s" begin="-0.736s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(93.09 -25.18)" opacity="0.211">
+<path d="M0 0l-3.42 15.54" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.0 420" dur="1.579s" begin="-1.384s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(696.46 -69.68)" opacity="0.149">
+<path d="M0 0l-2.95 13.39" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.7 420" dur="0.778s" begin="-0.662s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(667.38 -70.23)" opacity="0.228">
+<path d="M0 0l-2.19 9.95" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.8 420" dur="0.835s" begin="-0.469s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(672.37 -23.26)" opacity="0.168">
+<path d="M0 0l-3.43 15.60" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.8 420" dur="1.040s" begin="-0.077s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(275.70 -60.85)" opacity="0.252">
+<path d="M0 0l-2.06 9.35" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.2 420" dur="1.539s" begin="-0.883s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(124.55 -24.71)" opacity="0.253">
+<path d="M0 0l-3.44 15.65" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.1 420" dur="1.354s" begin="-0.899s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(8.51 -40.62)" opacity="0.192">
+<path d="M0 0l-3.54 16.08" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.8 420" dur="0.968s" begin="-0.236s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(501.59 -41.89)" opacity="0.209">
+<path d="M0 0l-2.19 9.94" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.0 420" dur="1.525s" begin="-1.354s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(752.85 -65.82)" opacity="0.207">
+<path d="M0 0l-3.76 17.09" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.9 420" dur="0.695s" begin="-0.246s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(212.94 -85.15)" opacity="0.243">
+<path d="M0 0l-2.06 9.38" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.6 420" dur="1.143s" begin="-0.560s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(308.31 -23.99)" opacity="0.208">
+<path d="M0 0l-2.52 11.45" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.1 420" dur="1.215s" begin="-0.985s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(907.77 -44.35)" opacity="0.219">
+<path d="M0 0l-2.09 9.50" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.2 420" dur="1.558s" begin="-1.548s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(791.63 -77.17)" opacity="0.227">
+<path d="M0 0l-3.88 17.65" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.9 420" dur="0.981s" begin="-0.205s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(563.61 -85.75)" opacity="0.252">
+<path d="M0 0l-1.83 8.30" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.2 420" dur="1.553s" begin="-0.728s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(893.12 -21.47)" opacity="0.255">
+<path d="M0 0l-2.36 10.74" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.4 420" dur="0.688s" begin="-0.490s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(824.25 -74.52)" opacity="0.244">
+<path d="M0 0l-3.44 15.63" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.6 420" dur="0.718s" begin="-0.238s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(291.74 -87.89)" opacity="0.158">
+<path d="M0 0l-3.85 17.50" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.7 420" dur="0.992s" begin="-0.926s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(492.08 -27.47)" opacity="0.242">
+<path d="M0 0l-3.00 13.62" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.8 420" dur="1.376s" begin="-1.357s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(243.80 -80.76)" opacity="0.231">
+<path d="M0 0l-2.82 12.83" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.7 420" dur="1.480s" begin="-0.547s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(424.67 -65.05)" opacity="0.209">
+<path d="M0 0l-3.47 15.75" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-11.5 420" dur="1.043s" begin="-0.797s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(777.12 -43.10)" opacity="0.135">
+<path d="M0 0l-3.53 16.04" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.1 420" dur="1.505s" begin="-1.051s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(523.02 -69.67)" opacity="0.198">
+<path d="M0 0l-3.01 13.69" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.5 420" dur="1.259s" begin="-0.160s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(558.63 -92.06)" opacity="0.257">
+<path d="M0 0l-1.79 8.14" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.8 420" dur="1.361s" begin="-1.014s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(705.69 -53.57)" opacity="0.182">
+<path d="M0 0l-3.38 15.38" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.3 420" dur="1.500s" begin="-1.497s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(661.86 -61.06)" opacity="0.144">
+<path d="M0 0l-3.32 15.11" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-7.9 420" dur="0.874s" begin="-0.621s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(232.97 -66.09)" opacity="0.214">
+<path d="M0 0l-2.89 13.12" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="0.705s" begin="-0.128s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(690.30 -73.50)" opacity="0.244">
+<path d="M0 0l-3.18 14.45" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.7 420" dur="0.857s" begin="-0.092s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(344.27 -83.64)" opacity="0.252">
+<path d="M0 0l-2.71 12.33" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.6 420" dur="0.909s" begin="-0.065s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(815.60 -45.58)" opacity="0.219">
+<path d="M0 0l-3.09 14.02" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.6 420" dur="1.456s" begin="-0.182s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(188.71 -35.56)" opacity="0.200">
+<path d="M0 0l-3.36 15.28" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-12.5 420" dur="0.774s" begin="-0.724s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(553.90 -40.77)" opacity="0.145">
+<path d="M0 0l-3.69 16.78" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.7 420" dur="1.323s" begin="-0.876s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(546.03 -35.55)" opacity="0.164">
+<path d="M0 0l-3.39 15.39" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.7 420" dur="1.480s" begin="-0.103s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(856.56 -25.02)" opacity="0.170">
+<path d="M0 0l-2.76 12.53" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-8.8 420" dur="1.313s" begin="-1.162s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(113.59 -82.71)" opacity="0.131">
+<path d="M0 0l-2.98 13.54" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-6.2 420" dur="0.701s" begin="-0.491s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(42.86 -41.10)" opacity="0.228">
+<path d="M0 0l-3.19 14.49" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-10.5 420" dur="1.466s" begin="-1.187s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(702.65 -50.12)" opacity="0.143">
+<path d="M0 0l-2.88 13.08" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.5 420" dur="1.234s" begin="-0.042s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(263.02 -68.01)" opacity="0.240">
+<path d="M0 0l-3.01 13.70" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-9.3 420" dur="1.582s" begin="-0.260s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(303.89 -39.80)" opacity="0.234">
+<path d="M0 0l-2.87 13.06" stroke="url(#rainGrad)" stroke-width="0.56" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.5 420" dur="1.211s" begin="-1.005s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(788.50 -76.64)" opacity="0.327">
+<path d="M0 0l-3.79 17.21" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.1 420" dur="0.862s" begin="-0.445s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(820.81 -27.93)" opacity="0.369">
+<path d="M0 0l-4.40 20.00" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.4 420" dur="0.912s" begin="-0.115s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-20.19 -27.10)" opacity="0.278">
+<path d="M0 0l-5.60 25.47" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.1 420" dur="0.754s" begin="-0.420s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(781.66 -29.74)" opacity="0.301">
+<path d="M0 0l-3.16 14.38" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.7 420" dur="0.806s" begin="-0.786s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(681.61 -85.10)" opacity="0.252">
+<path d="M0 0l-3.44 15.63" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.4 420" dur="0.626s" begin="-0.184s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(139.01 -45.73)" opacity="0.277">
+<path d="M0 0l-5.63 25.57" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.3 420" dur="0.653s" begin="-0.289s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(441.43 -34.35)" opacity="0.262">
+<path d="M0 0l-5.06 23.01" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.942s" begin="-0.872s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(19.37 -31.82)" opacity="0.322">
+<path d="M0 0l-4.21 19.14" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.0 420" dur="0.973s" begin="-0.868s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(687.17 -28.53)" opacity="0.371">
+<path d="M0 0l-4.99 22.66" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.9 420" dur="0.724s" begin="-0.476s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(200.54 -60.69)" opacity="0.334">
+<path d="M0 0l-5.84 26.57" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.5 420" dur="0.959s" begin="-0.532s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(308.46 -64.92)" opacity="0.222">
+<path d="M0 0l-5.86 26.63" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.8 420" dur="0.886s" begin="-0.688s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(752.51 -69.16)" opacity="0.371">
+<path d="M0 0l-6.34 28.82" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.7 420" dur="0.841s" begin="-0.104s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(643.67 -32.97)" opacity="0.261">
+<path d="M0 0l-3.41 15.52" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.9 420" dur="0.601s" begin="-0.594s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(120.43 -62.20)" opacity="0.362">
+<path d="M0 0l-4.02 18.27" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.8 420" dur="0.809s" begin="-0.196s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(847.77 -86.97)" opacity="0.270">
+<path d="M0 0l-5.76 26.20" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.2 420" dur="0.587s" begin="-0.116s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(195.94 -71.96)" opacity="0.283">
+<path d="M0 0l-4.83 21.97" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.3 420" dur="0.727s" begin="-0.063s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(786.97 -63.63)" opacity="0.345">
+<path d="M0 0l-5.19 23.61" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.5 420" dur="0.811s" begin="-0.104s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(862.05 -46.49)" opacity="0.387">
+<path d="M0 0l-4.53 20.59" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.912s" begin="-0.270s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(446.87 -68.20)" opacity="0.237">
+<path d="M0 0l-5.95 27.06" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.2 420" dur="0.605s" begin="-0.334s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(818.06 -25.01)" opacity="0.290">
+<path d="M0 0l-5.06 23.00" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.5 420" dur="0.889s" begin="-0.226s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(561.95 -25.43)" opacity="0.296">
+<path d="M0 0l-5.21 23.70" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.9 420" dur="0.982s" begin="-0.697s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(140.93 -53.26)" opacity="0.239">
+<path d="M0 0l-5.90 26.80" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.4 420" dur="0.802s" begin="-0.102s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(649.65 -27.40)" opacity="0.334">
+<path d="M0 0l-3.37 15.30" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.4 420" dur="0.583s" begin="-0.030s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(733.40 -82.36)" opacity="0.398">
+<path d="M0 0l-4.33 19.66" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.1 420" dur="0.613s" begin="-0.086s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(355.39 -39.19)" opacity="0.373">
+<path d="M0 0l-4.87 22.15" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.2 420" dur="0.738s" begin="-0.092s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(556.63 -43.63)" opacity="0.228">
+<path d="M0 0l-5.02 22.81" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.1 420" dur="0.933s" begin="-0.450s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(1.67 -39.43)" opacity="0.252">
+<path d="M0 0l-3.12 14.20" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.6 420" dur="0.633s" begin="-0.009s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(894.12 -45.80)" opacity="0.244">
+<path d="M0 0l-4.25 19.33" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.5 420" dur="0.895s" begin="-0.469s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(487.61 -23.29)" opacity="0.332">
+<path d="M0 0l-6.14 27.91" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.606s" begin="-0.091s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(614.81 -68.46)" opacity="0.266">
+<path d="M0 0l-3.81 17.30" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.7 420" dur="0.755s" begin="-0.242s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(528.72 -57.73)" opacity="0.354">
+<path d="M0 0l-3.51 15.96" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.3 420" dur="0.924s" begin="-0.097s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(190.34 -33.29)" opacity="0.335">
+<path d="M0 0l-6.12 27.83" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.1 420" dur="0.957s" begin="-0.493s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(719.43 -79.58)" opacity="0.260">
+<path d="M0 0l-4.26 19.37" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.5 420" dur="0.601s" begin="-0.547s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(740.02 -38.22)" opacity="0.236">
+<path d="M0 0l-4.50 20.45" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.4 420" dur="0.517s" begin="-0.135s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(394.51 -34.65)" opacity="0.261">
+<path d="M0 0l-3.44 15.65" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.2 420" dur="0.802s" begin="-0.102s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(212.54 -47.43)" opacity="0.359">
+<path d="M0 0l-3.17 14.41" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.7 420" dur="0.952s" begin="-0.038s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(588.75 -37.78)" opacity="0.262">
+<path d="M0 0l-5.56 25.28" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.5 420" dur="0.577s" begin="-0.310s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(751.52 -56.39)" opacity="0.363">
+<path d="M0 0l-4.32 19.65" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.4 420" dur="0.571s" begin="-0.515s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(36.98 -56.82)" opacity="0.344">
+<path d="M0 0l-3.57 16.22" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.5 420" dur="0.490s" begin="-0.473s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(278.95 -44.86)" opacity="0.344">
+<path d="M0 0l-3.74 16.98" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.0 420" dur="0.644s" begin="-0.035s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(178.94 -28.76)" opacity="0.316">
+<path d="M0 0l-5.24 23.83" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.7 420" dur="0.675s" begin="-0.085s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(350.53 -24.59)" opacity="0.222">
+<path d="M0 0l-3.58 16.29" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.0 420" dur="0.639s" begin="-0.380s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(888.92 -75.23)" opacity="0.326">
+<path d="M0 0l-4.13 18.79" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.2 420" dur="0.962s" begin="-0.523s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(292.40 -39.19)" opacity="0.317">
+<path d="M0 0l-5.16 23.45" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.7 420" dur="0.487s" begin="-0.184s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(644.85 -74.41)" opacity="0.398">
+<path d="M0 0l-5.06 22.98" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.4 420" dur="0.738s" begin="-0.357s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(914.25 -74.82)" opacity="0.293">
+<path d="M0 0l-5.81 26.43" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.4 420" dur="0.756s" begin="-0.688s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(741.21 -53.44)" opacity="0.352">
+<path d="M0 0l-3.85 17.48" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.4 420" dur="0.715s" begin="-0.635s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-30.44 -21.88)" opacity="0.280">
+<path d="M0 0l-4.78 21.73" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.2 420" dur="0.761s" begin="-0.027s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(403.66 -82.94)" opacity="0.224">
+<path d="M0 0l-5.14 23.36" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.1 420" dur="0.659s" begin="-0.142s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(722.89 -73.87)" opacity="0.236">
+<path d="M0 0l-5.72 26.01" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.0 420" dur="0.861s" begin="-0.716s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(819.19 -37.84)" opacity="0.326">
+<path d="M0 0l-5.46 24.84" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.1 420" dur="0.986s" begin="-0.155s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(612.82 -86.73)" opacity="0.251">
+<path d="M0 0l-6.10 27.72" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.5 420" dur="0.494s" begin="-0.105s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(916.74 -38.09)" opacity="0.360">
+<path d="M0 0l-4.09 18.59" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.7 420" dur="0.617s" begin="-0.281s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(391.25 -84.85)" opacity="0.249">
+<path d="M0 0l-3.60 16.35" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.967s" begin="-0.099s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(689.08 -28.05)" opacity="0.373">
+<path d="M0 0l-6.36 28.93" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.809s" begin="-0.365s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(53.58 -47.10)" opacity="0.329">
+<path d="M0 0l-6.17 28.05" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.5 420" dur="0.661s" begin="-0.104s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(438.33 -95.12)" opacity="0.400">
+<path d="M0 0l-5.09 23.16" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.7 420" dur="0.839s" begin="-0.777s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(160.03 -85.39)" opacity="0.274">
+<path d="M0 0l-6.01 27.32" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.2 420" dur="0.716s" begin="-0.339s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(22.12 -53.99)" opacity="0.247">
+<path d="M0 0l-4.59 20.87" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.9 420" dur="0.905s" begin="-0.208s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(415.05 -76.59)" opacity="0.350">
+<path d="M0 0l-3.83 17.43" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.7 420" dur="0.881s" begin="-0.789s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(591.98 -41.86)" opacity="0.381">
+<path d="M0 0l-5.75 26.14" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.5 420" dur="0.615s" begin="-0.190s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(302.69 -38.43)" opacity="0.293">
+<path d="M0 0l-5.81 26.41" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="0.889s" begin="-0.032s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-38.98 -95.07)" opacity="0.392">
+<path d="M0 0l-5.50 25.01" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.6 420" dur="0.670s" begin="-0.582s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(753.99 -54.23)" opacity="0.227">
+<path d="M0 0l-4.68 21.29" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.732s" begin="-0.088s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(184.57 -58.07)" opacity="0.315">
+<path d="M0 0l-4.91 22.33" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.4 420" dur="0.709s" begin="-0.398s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(619.25 -87.47)" opacity="0.359">
+<path d="M0 0l-5.69 25.85" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.5 420" dur="0.776s" begin="-0.103s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(158.91 -21.01)" opacity="0.370">
+<path d="M0 0l-3.45 15.68" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.554s" begin="-0.397s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(344.66 -74.07)" opacity="0.334">
+<path d="M0 0l-6.03 27.40" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.9 420" dur="0.911s" begin="-0.175s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(720.30 -59.26)" opacity="0.342">
+<path d="M0 0l-3.09 14.03" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="0.641s" begin="-0.082s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(838.33 -61.66)" opacity="0.293">
+<path d="M0 0l-3.45 15.67" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.4 420" dur="0.587s" begin="-0.422s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(894.27 -51.69)" opacity="0.311">
+<path d="M0 0l-5.17 23.51" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.6 420" dur="0.824s" begin="-0.650s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(156.89 -33.13)" opacity="0.282">
+<path d="M0 0l-5.87 26.68" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.6 420" dur="0.780s" begin="-0.144s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(312.92 -26.82)" opacity="0.282">
+<path d="M0 0l-3.87 17.60" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.2 420" dur="0.694s" begin="-0.564s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(227.68 -42.39)" opacity="0.283">
+<path d="M0 0l-5.72 25.98" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.607s" begin="-0.466s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(355.13 -30.16)" opacity="0.372">
+<path d="M0 0l-5.56 25.26" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.6 420" dur="0.574s" begin="-0.281s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(232.83 -33.03)" opacity="0.376">
+<path d="M0 0l-5.17 23.51" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.4 420" dur="0.833s" begin="-0.416s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(123.35 -74.57)" opacity="0.287">
+<path d="M0 0l-6.03 27.43" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="0.777s" begin="-0.297s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(789.25 -84.65)" opacity="0.225">
+<path d="M0 0l-6.29 28.59" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.671s" begin="-0.350s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(508.71 -93.21)" opacity="0.392">
+<path d="M0 0l-6.15 27.95" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.6 420" dur="0.823s" begin="-0.151s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(482.97 -67.33)" opacity="0.239">
+<path d="M0 0l-6.16 28.01" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.9 420" dur="0.709s" begin="-0.216s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(352.16 -95.51)" opacity="0.226">
+<path d="M0 0l-4.33 19.69" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.7 420" dur="0.525s" begin="-0.103s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(890.17 -64.15)" opacity="0.302">
+<path d="M0 0l-3.66 16.63" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.1 420" dur="0.663s" begin="-0.156s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(906.94 -46.40)" opacity="0.244">
+<path d="M0 0l-4.36 19.83" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.4 420" dur="0.923s" begin="-0.807s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(374.99 -94.70)" opacity="0.222">
+<path d="M0 0l-6.21 28.22" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.2 420" dur="0.558s" begin="-0.009s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(853.66 -26.07)" opacity="0.250">
+<path d="M0 0l-4.46 20.29" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.4 420" dur="0.568s" begin="-0.537s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(528.45 -46.96)" opacity="0.339">
+<path d="M0 0l-5.53 25.13" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.7 420" dur="0.509s" begin="-0.398s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(280.88 -25.07)" opacity="0.306">
+<path d="M0 0l-3.90 17.74" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.7 420" dur="0.740s" begin="-0.017s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(80.02 -29.38)" opacity="0.344">
+<path d="M0 0l-6.29 28.57" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.4 420" dur="0.970s" begin="-0.558s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(267.85 -58.90)" opacity="0.346">
+<path d="M0 0l-6.14 27.92" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.4 420" dur="0.771s" begin="-0.586s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(110.06 -76.19)" opacity="0.221">
+<path d="M0 0l-3.27 14.88" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.8 420" dur="0.672s" begin="-0.017s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-1.91 -25.44)" opacity="0.367">
+<path d="M0 0l-6.15 27.96" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.6 420" dur="0.487s" begin="-0.006s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(543.29 -85.80)" opacity="0.367">
+<path d="M0 0l-3.59 16.31" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.3 420" dur="0.575s" begin="-0.256s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(831.87 -45.48)" opacity="0.317">
+<path d="M0 0l-5.99 27.21" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.4 420" dur="0.589s" begin="-0.574s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(448.58 -47.16)" opacity="0.320">
+<path d="M0 0l-3.40 15.45" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.0 420" dur="0.803s" begin="-0.796s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(914.89 -49.16)" opacity="0.301">
+<path d="M0 0l-3.40 15.47" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.9 420" dur="0.805s" begin="-0.632s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(261.63 -35.48)" opacity="0.320">
+<path d="M0 0l-4.15 18.85" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.9 420" dur="0.663s" begin="-0.265s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(28.32 -31.71)" opacity="0.257">
+<path d="M0 0l-4.14 18.83" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.1 420" dur="0.897s" begin="-0.050s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(301.37 -72.70)" opacity="0.237">
+<path d="M0 0l-5.95 27.05" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.9 420" dur="0.534s" begin="-0.319s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(845.63 -49.94)" opacity="0.222">
+<path d="M0 0l-6.29 28.58" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.0 420" dur="0.766s" begin="-0.182s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(82.57 -75.45)" opacity="0.381">
+<path d="M0 0l-5.50 25.00" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.2 420" dur="0.923s" begin="-0.827s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(241.12 -53.76)" opacity="0.239">
+<path d="M0 0l-5.02 22.81" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.5 420" dur="0.822s" begin="-0.530s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(789.40 -28.61)" opacity="0.377">
+<path d="M0 0l-5.06 23.02" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="0.601s" begin="-0.303s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(765.56 -38.81)" opacity="0.366">
+<path d="M0 0l-5.86 26.63" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.0 420" dur="0.596s" begin="-0.249s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(273.70 -27.60)" opacity="0.352">
+<path d="M0 0l-3.26 14.80" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.4 420" dur="0.559s" begin="-0.001s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(429.03 -70.45)" opacity="0.316">
+<path d="M0 0l-6.23 28.30" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.2 420" dur="0.728s" begin="-0.156s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(905.54 -58.26)" opacity="0.287">
+<path d="M0 0l-4.95 22.50" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.9 420" dur="0.675s" begin="-0.422s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-18.16 -78.24)" opacity="0.349">
+<path d="M0 0l-3.58 16.29" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.1 420" dur="0.934s" begin="-0.118s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-9.24 -89.64)" opacity="0.222">
+<path d="M0 0l-3.27 14.85" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.5 420" dur="0.501s" begin="-0.255s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(715.17 -60.68)" opacity="0.348">
+<path d="M0 0l-3.99 18.12" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.0 420" dur="0.568s" begin="-0.550s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(851.61 -57.27)" opacity="0.366">
+<path d="M0 0l-5.45 24.76" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.8 420" dur="0.902s" begin="-0.870s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(774.76 -45.91)" opacity="0.370">
+<path d="M0 0l-3.69 16.79" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.0 420" dur="0.553s" begin="-0.122s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(692.81 -29.89)" opacity="0.260">
+<path d="M0 0l-3.12 14.16" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.3 420" dur="0.965s" begin="-0.632s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(770.42 -74.06)" opacity="0.276">
+<path d="M0 0l-4.97 22.61" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.9 420" dur="0.957s" begin="-0.836s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(729.65 -65.03)" opacity="0.358">
+<path d="M0 0l-3.71 16.84" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.1 420" dur="0.610s" begin="-0.293s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(735.16 -66.09)" opacity="0.332">
+<path d="M0 0l-3.62 16.48" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.2 420" dur="0.481s" begin="-0.061s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(636.93 -71.95)" opacity="0.320">
+<path d="M0 0l-4.23 19.24" stroke="url(#rainGrad)" stroke-width="0.83" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="0.805s" begin="-0.178s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(642.87 -47.31)" opacity="0.470" filter="url(#nearBlur)">
+<path d="M0 0l-7.13 32.39" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.3 420" dur="0.411s" begin="-0.054s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(553.88 -91.16)" opacity="0.319" filter="url(#nearBlur)">
+<path d="M0 0l-5.68 25.82" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.8 420" dur="0.345s" begin="-0.148s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(877.09 -83.82)" opacity="0.421" filter="url(#nearBlur)">
+<path d="M0 0l-5.52 25.09" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.9 420" dur="0.360s" begin="-0.359s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(431.42 -74.50)" opacity="0.497" filter="url(#nearBlur)">
+<path d="M0 0l-8.31 37.76" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.9 420" dur="0.379s" begin="-0.302s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(257.22 -32.35)" opacity="0.330" filter="url(#nearBlur)">
+<path d="M0 0l-6.78 30.83" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.9 420" dur="0.557s" begin="-0.546s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(399.52 -66.24)" opacity="0.465" filter="url(#nearBlur)">
+<path d="M0 0l-7.59 34.51" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.4 420" dur="0.364s" begin="-0.050s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(149.84 -88.88)" opacity="0.448" filter="url(#nearBlur)">
+<path d="M0 0l-7.84 35.62" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.622s" begin="-0.545s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(265.94 -60.98)" opacity="0.512" filter="url(#nearBlur)">
+<path d="M0 0l-6.76 30.73" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.5 420" dur="0.685s" begin="-0.196s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(264.38 -73.55)" opacity="0.455" filter="url(#nearBlur)">
+<path d="M0 0l-8.92 40.53" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.0 420" dur="0.532s" begin="-0.132s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(500.76 -21.63)" opacity="0.442" filter="url(#nearBlur)">
+<path d="M0 0l-5.73 26.05" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.1 420" dur="0.489s" begin="-0.137s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-1.70 -57.86)" opacity="0.397" filter="url(#nearBlur)">
+<path d="M0 0l-9.15 41.58" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.4 420" dur="0.523s" begin="-0.198s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-28.39 -38.48)" opacity="0.310" filter="url(#nearBlur)">
+<path d="M0 0l-8.31 37.75" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.1 420" dur="0.608s" begin="-0.166s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(600.41 -61.50)" opacity="0.324" filter="url(#nearBlur)">
+<path d="M0 0l-5.74 26.09" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.7 420" dur="0.673s" begin="-0.131s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(737.65 -67.38)" opacity="0.309" filter="url(#nearBlur)">
+<path d="M0 0l-7.70 35.00" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.7 420" dur="0.343s" begin="-0.142s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(925.46 -85.22)" opacity="0.412" filter="url(#nearBlur)">
+<path d="M0 0l-6.57 29.85" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.7 420" dur="0.368s" begin="-0.186s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(636.88 -42.31)" opacity="0.463" filter="url(#nearBlur)">
+<path d="M0 0l-7.61 34.61" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.2 420" dur="0.342s" begin="-0.238s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(149.25 -23.24)" opacity="0.416" filter="url(#nearBlur)">
+<path d="M0 0l-9.16 41.62" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.6 420" dur="0.513s" begin="-0.142s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(646.58 -55.08)" opacity="0.348" filter="url(#nearBlur)">
+<path d="M0 0l-9.28 42.18" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.6 420" dur="0.548s" begin="-0.035s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(771.48 -70.55)" opacity="0.330" filter="url(#nearBlur)">
+<path d="M0 0l-9.25 42.07" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.3 420" dur="0.603s" begin="-0.255s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(318.66 -55.48)" opacity="0.517" filter="url(#nearBlur)">
+<path d="M0 0l-7.73 35.13" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.2 420" dur="0.678s" begin="-0.020s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(712.32 -60.22)" opacity="0.343" filter="url(#nearBlur)">
+<path d="M0 0l-6.95 31.58" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.4 420" dur="0.359s" begin="-0.085s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(458.05 -92.38)" opacity="0.344" filter="url(#nearBlur)">
+<path d="M0 0l-5.33 24.23" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.3 420" dur="0.595s" begin="-0.316s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(163.76 -39.35)" opacity="0.486" filter="url(#nearBlur)">
+<path d="M0 0l-7.53 34.22" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.0 420" dur="0.568s" begin="-0.305s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(499.73 -72.94)" opacity="0.356" filter="url(#nearBlur)">
+<path d="M0 0l-8.05 36.59" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.0 420" dur="0.592s" begin="-0.308s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(724.16 -24.72)" opacity="0.401" filter="url(#nearBlur)">
+<path d="M0 0l-8.89 40.39" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-13.0 420" dur="0.573s" begin="-0.326s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(922.67 -82.86)" opacity="0.301" filter="url(#nearBlur)">
+<path d="M0 0l-6.12 27.81" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.0 420" dur="0.535s" begin="-0.523s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(479.28 -52.50)" opacity="0.462" filter="url(#nearBlur)">
+<path d="M0 0l-6.14 27.89" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.9 420" dur="0.585s" begin="-0.077s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(631.11 -34.95)" opacity="0.365" filter="url(#nearBlur)">
+<path d="M0 0l-9.09 41.31" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.8 420" dur="0.457s" begin="-0.009s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(558.09 -36.91)" opacity="0.441" filter="url(#nearBlur)">
+<path d="M0 0l-6.43 29.23" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.0 420" dur="0.483s" begin="-0.213s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(735.93 -52.62)" opacity="0.404" filter="url(#nearBlur)">
+<path d="M0 0l-8.48 38.56" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.4 420" dur="0.695s" begin="-0.024s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(473.93 -20.05)" opacity="0.311" filter="url(#nearBlur)">
+<path d="M0 0l-6.01 27.32" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.5 420" dur="0.405s" begin="-0.358s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(885.27 -49.48)" opacity="0.420" filter="url(#nearBlur)">
+<path d="M0 0l-5.71 25.97" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.4 420" dur="0.581s" begin="-0.153s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(773.35 -82.53)" opacity="0.455" filter="url(#nearBlur)">
+<path d="M0 0l-7.30 33.18" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.432s" begin="-0.220s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(383.11 -25.68)" opacity="0.476" filter="url(#nearBlur)">
+<path d="M0 0l-5.91 26.85" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.714s" begin="-0.613s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(874.65 -58.40)" opacity="0.445" filter="url(#nearBlur)">
+<path d="M0 0l-8.94 40.65" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.3 420" dur="0.710s" begin="-0.094s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(773.72 -50.58)" opacity="0.479" filter="url(#nearBlur)">
+<path d="M0 0l-7.24 32.90" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.635s" begin="-0.390s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-19.89 -74.58)" opacity="0.473" filter="url(#nearBlur)">
+<path d="M0 0l-8.29 37.66" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.7 420" dur="0.481s" begin="-0.184s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(165.40 -41.58)" opacity="0.409" filter="url(#nearBlur)">
+<path d="M0 0l-6.25 28.42" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.492s" begin="-0.172s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(647.02 -49.76)" opacity="0.334" filter="url(#nearBlur)">
+<path d="M0 0l-7.46 33.89" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.9 420" dur="0.496s" begin="-0.463s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(40.85 -33.95)" opacity="0.357" filter="url(#nearBlur)">
+<path d="M0 0l-7.12 32.35" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.1 420" dur="0.482s" begin="-0.206s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(128.78 -21.15)" opacity="0.324" filter="url(#nearBlur)">
+<path d="M0 0l-9.06 41.19" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.3 420" dur="0.502s" begin="-0.131s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(49.95 -66.16)" opacity="0.351" filter="url(#nearBlur)">
+<path d="M0 0l-5.96 27.07" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.3 420" dur="0.361s" begin="-0.174s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(624.92 -38.75)" opacity="0.466" filter="url(#nearBlur)">
+<path d="M0 0l-8.01 36.41" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.1 420" dur="0.627s" begin="-0.609s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-38.00 -32.43)" opacity="0.407" filter="url(#nearBlur)">
+<path d="M0 0l-5.89 26.76" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.9 420" dur="0.719s" begin="-0.491s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(881.28 -26.33)" opacity="0.304" filter="url(#nearBlur)">
+<path d="M0 0l-6.20 28.18" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-15.2 420" dur="0.711s" begin="-0.437s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(569.54 -36.49)" opacity="0.345" filter="url(#nearBlur)">
+<path d="M0 0l-6.85 31.15" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.6 420" dur="0.672s" begin="-0.508s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(824.66 -50.83)" opacity="0.472" filter="url(#nearBlur)">
+<path d="M0 0l-6.59 29.98" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-19.0 420" dur="0.660s" begin="-0.171s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(611.43 -37.10)" opacity="0.345" filter="url(#nearBlur)">
+<path d="M0 0l-7.52 34.20" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-14.4 420" dur="0.640s" begin="-0.086s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(812.44 -95.55)" opacity="0.430" filter="url(#nearBlur)">
+<path d="M0 0l-8.22 37.38" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-20.7 420" dur="0.681s" begin="-0.017s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(553.21 -41.06)" opacity="0.493" filter="url(#nearBlur)">
+<path d="M0 0l-8.69 39.50" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-17.3 420" dur="0.440s" begin="-0.347s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(-0.71 -93.12)" opacity="0.505" filter="url(#nearBlur)">
+<path d="M0 0l-8.07 36.69" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-16.4 420" dur="0.441s" begin="-0.291s" repeatCount="indefinite"/>
+</g>
+<g transform="translate(212.97 -88.29)" opacity="0.371" filter="url(#nearBlur)">
+<path d="M0 0l-6.60 29.99" stroke="url(#rainGrad)" stroke-width="1.12" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" additive="sum" from="0 0" to="-18.3 420" dur="0.469s" begin="-0.249s" repeatCount="indefinite"/>
+</g>
+</g></svg>
